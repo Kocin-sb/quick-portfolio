@@ -4,13 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[LED CUBE 5x5 using I2C](/sample_page)
 <img src="images/Project1.jpg?raw=true"/>
 
 
 ### Category Name 2
 
-- [My Acctivities at TryHackMe :> ](https://tryhackme.com/p/SBK)
+- [My Activities at TryHackMe :> ](https://tryhackme.com/p/SBK)
 
 
 
