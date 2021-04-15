@@ -1,13 +1,13 @@
-title: "Kocin Sabareeswaran Bama" # your name (or website title) here
+title: Kocin # your name (or website title) here
 logo: "/images/117906999_2725980877683397_6572340652541304818_n.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   I am a Strongly motivated student, openminded to see any potential aproaching opertunity and determinded to give my best at any work I am involved.<br>
+   <p>I am a Strongly motivated student, openminded to see any potential aproaching opertunity and determinded to give my best at any work I am involved.<br>
    Creative mind helps me break boundaries set in jobs and think outside the box. 
   <br><br>
   My involvment and interest in the subject of computer science always pushes me give a surpirising result in projects I do.<br>
   I think it is important to understand the basics skills and fundamentals of concepts so when building a projects there is no tubulance to your thinking,<br>
   similar to how important a planning a stories and sprint planning in strum before the sprint.
-  <br><br>
+  <br><br></p>
   <a href="https://www.linkedin.com/in/kocin-sb/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
